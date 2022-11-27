@@ -12,7 +12,7 @@ You only need one server per group, so choose one to do it. We'll be using fly.i
 
 ### Remote server
 
-(needed for the exam, should not used during development). Set it up and test your solution against it once in a while.
+(needed for the exam, should not be used during development). Set it up and test your solution against it once in a while.
 
 1. clone this repository
 2. open your terminal inside the project
